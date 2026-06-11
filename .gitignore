@@ -1,0 +1,20 @@
+# ── Backend (Java / Maven) ──
+target/
+*.class
+*.jar
+
+# ── Frontend + E2E (Node) ──
+node_modules/
+dist/
+.vite/
+
+# ── Playwright ──
+playwright-report/
+test-results/
+/e2e/playwright/.cache/
+
+# ── IDE / OS ──
+.idea/
+.vscode/
+*.iml
+.DS_Store
