@@ -9,7 +9,6 @@ dist/
 .vite/
 
 # ── Playwright ──
-playwright-report/
 test-results/
 /e2e/playwright/.cache/
 
